@@ -66,6 +66,7 @@ Or for JavaScript
 * RDiscount
 * Nokogiri
 * pygments (for syntax highlighting)
+* [makers-mark][http://github.com/nakajima/makers-mark]
 
 ## Todo
 
